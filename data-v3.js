@@ -4,37 +4,37 @@ var data = {
         {
             name: '尹素婉',
             view: '31589',
-            cover: 'https://cdn.jsdelivr.net/gh/DiabloVideo/Resources/new/6.png',
+            cover: 'https://cdn.jsdelivr.net/gh/DiabloVideo/Resources/new/6.jpg',
             city:'杭州'
         },
         {
             name: '水幂桃',
             view: '7572',
-            cover: 'https://cdn.jsdelivr.net/gh/DiabloVideo/Resources/new/7.png',
+            cover: 'https://cdn.jsdelivr.net/gh/DiabloVideo/Resources/new/7.jpg',
             city:'杭州'
         },
         {
             name: '温碗儿',
             view: '6896',
-            cover: 'https://cdn.jsdelivr.net/gh/DiabloVideo/Resources/new/8.png',
+            cover: 'https://cdn.jsdelivr.net/gh/DiabloVideo/Resources/new/8.jpg',
             city:'杭州'
         },
         {
             name: '韩水水',
             view: '6628',
-            cover: 'https://cdn.jsdelivr.net/gh/DiabloVideo/Resources/new/14.png',
+            cover: 'https://cdn.jsdelivr.net/gh/DiabloVideo/Resources/new/14.jpg',
             city:'杭州'
         },
         {
             name: '草莓妹',
             view: '6034',
-            cover: 'https://cdn.jsdelivr.net/gh/DiabloVideo/Resources/new/15.png',
+            cover: 'https://cdn.jsdelivr.net/gh/DiabloVideo/Resources/new/15.jpg',
             city:'杭州'
         },
         {
             name: '蜜豆baby',
             view: '27582',
-            cover: 'https://cdn.jsdelivr.net/gh/DiabloVideo/Resources/new/16.png',
+            cover: 'https://cdn.jsdelivr.net/gh/DiabloVideo/Resources/new/16.jpg',
             city:'杭州'
         },      
         {
